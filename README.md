@@ -1,4 +1,4 @@
-# NumPyLab
+# numpy-cookbook
 
 A hands-on NumPy playground covering linear algebra, statistics, optimization,
 image processing, and machine learning — built from scratch on top of NumPy.
